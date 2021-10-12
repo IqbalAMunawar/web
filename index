@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SINYALKU NETWORKING</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <div class="wrapper">
+            <div class="logo"><a herf=''>SINYALKU NETWORKING.</a></div>
+            <div class="menu">
+                <ul>
+                    <li><a herf="#Home">Home</a></li>
+                    <li><a herf="#profil">profil</a></li>
+                    <li><a herf="#Partners">Partners</a></li>
+                    <li><a herf="#contact">contact</a></li>
+                    <li><a herf="#pendaftaran">pendaftaran</a></li>
+                    <li><a herf="" class="tbl-biru">Sign Up</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="wrapper">
+        <!---untuk home-->
+        <section src="Home">
+            <imgs src="xx.jpg"/>
+            <div class="kolom">
+               <p class="deskripsi">Belajar programing #dirumahaja</p>
+               <h2>tetap sehat,tetap semngat</h2>
+               <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non, doloremque..</p> 
+               <p><a href="" class="tbl-pink">pelajar lebih lanjut</a></p>
+            </div>
+        </section>
+        
+        <!-- untuk profil-->
+        <section id="profil">
+            <div class="kolom">
+                <p class="deskripsi">you will need thii</p>
+                <h2>Online profil</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio veniam eaque architecto sit! At quas harum minus minima iste magnam?</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio veniam eaque architecto sit! At quas harum minus minima iste magnam?</p>
+                <p><a href="" class="tbl-biu">Pelajari lebih lanjut</a></p>
+            </div>
+            <img src="logo.jpeg"/>
+        </section>
+
+        <!-- untuk partners-->
+        <section id="partners">
+            <div class="tengah">
+                <div class="kolom">
+                    <p class="deskripsi">Our to partners</p>
+                    <h2>partners</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, commodi!</p>
+                </div>
+
+                <div class="tutor-list">
+                    <div class="kartu-tutor">
+                        <img src="will.jpg"/>
+                        <p>will stranger things</p>
+                    </div>
+                    <div class="kartu-tutor">
+                        <img src="mr bean.jpg"/>
+                        <p>mr.bean</p>
+                    </div>
+                    <div class="kartu-tutor">
+                        <img src="mark zuckerberg.jpg"/>
+                        <p>mark zuckerberg</p>
+                    </div>   
+                    <div class="kartu-tutor">
+                        <img src="steve chen.jpg"/>
+                        <p>steve chen</p>
+                    </div>   
+                    
+                </div>
+            </div>
+        </section>
+
+         <!-- untuk contact-->
+         <section id="contact">
+             <div class="tengah">
+                 <div class="kolom">
+                     <p class="deskripsi">Our Top contact</p>
+                     <h2>Contact</h2>
+                     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Obcaecati neque consequatur nemo beatae vero, labore molestias non voluptatibus tenetur iure.</p>
+                 </div>
+
+                 <div class="contact-list">
+                     <div class="kartu-contact">
+                         <img src="ortu.jpg"/>
+                     </div>
+                     <div class="kartu-contact">
+                        <img src="moratel.jpg"/>
+                    </div>
+                    <div class="kartu-contact">
+                        <img src="tt.jpg"/>
+                    </div>
+                    <div class="kartu-contact">
+                        <img src="ui.png"/>
+                    </div>
+                    <div class="kartu-contact">
+                        <img src="ox.png"/>
+                    </div>
+                 </div>
+             </div>
+         </section>
+    </div>
+
+    <div id="pendaftaran">
+        <div class="wrapper">
+            <div class="footer">
+                <div class="footer-section">
+                 <h3>SINYALKUNETWORKING</h3>
+                 <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, dignissimos.</P>   
+                </div>
+                <div class="footer-section">
+                 <h3>About</h3>
+                 <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, dignissimos.</P>   
+                </div>
+                <div class="footer-section">
+                 <h3>Contact</h3>
+                 <P>Rukan Exclusive Radin Inten Kav. 18</P>
+                 <p>Jalan Radin Inten II Nomor 80, Rukun
+                    Tetangga 002, Rukun Warga 007, Kelurahan Duren Sawit</p>
+                 <p>Kecamatan Duren Sawit, Kota Administrasi Jakarta Timur,Provinsi Daerah Khusus Ibukota Jakarta </P>
+                 <p>Kode Pos : 13440</p>   
+                </div>
+                <div class="footer-section">
+                 <h3>Sosial</h3>
+                 <P><b>instagram : </b>SINYALKU</P>   
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="copyright">
+        <div class="wrapper">
+            &copy; 2021. <b>iqbal.</b> All Right Reserved.
+        </div>
+    </div>
+</body>
+</html>
